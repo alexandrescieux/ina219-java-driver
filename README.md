@@ -7,4 +7,4 @@ Comes with an optional console menu for configuration and reading values.
 
 ## Prerequisites
 
-- [https://pi4j.com/](Pi4j Library)
+- [Pi4j Library](https://pi4j.com/)
